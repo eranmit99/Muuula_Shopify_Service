@@ -1,0 +1,23 @@
+{
+  "name": "muuula_shopify_service",
+  "version": "1.0.0",
+  "description": "muuula shopify integration service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranmit99/Muuula_Shopify_Service.git"
+  },
+  "author": "eranmit@gmailc.om",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eranmit99/Muuula_Shopify_Service/issues"
+  },
+  "homepage": "https://github.com/eranmit99/Muuula_Shopify_Service#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
